@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 I speak: French, English and Spanish.
 - ⚡ Favorite platforms to learn more: YouTube, Codecademy, Udacity, Coursera, Zero to Mastery, Platzi and Puralsight
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alejandroq12)](https://git.io/streak-stats)
