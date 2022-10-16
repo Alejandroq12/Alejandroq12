@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alejandroq12&theme=nightowl)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroq12&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroq12&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroq12)](https://github.com/anuraghazra/github-readme-stats)
 
