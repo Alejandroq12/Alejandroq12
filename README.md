@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Favorite platforms to learn more: YouTube, Codecademy, Udacity, Coursera, Zero to Mastery, Platzi and Puralsight
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alejandroq12&theme=nightowl)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroq12&count_private=true)
