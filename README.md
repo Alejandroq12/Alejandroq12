@@ -1,9 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
 
-<p>My website: <a href="www.julioquezada.com">Julio Quezada</a></p>
-
-
 
 <!--
 **Alejandroq12/Alejandroq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
