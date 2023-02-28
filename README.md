@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄 I speak French, English, and Spanish. In addition, I am learning Chinese.
 
-⚡ My favorite platforms for learning are YouTube, Codecademy, Udacity, Coursera, Zero to Mastery, Platzi, and Pluralsight.
+⚡ My favorite platforms for learning are YouTube, Codecademy, Coursera, Zero to Mastery, Platzi, and Pluralsight.
 
 Languages and tools:
 <div> 
