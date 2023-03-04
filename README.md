@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 🔭 I'm currently working on a React + Next.js application.
 
-🌱 I'm currently learning Node.js and responsive web design.
+🌱 I am currently learning Node.js, as well as responsive web design and accessibility. 
 
 👯 I'm looking to collaborate with people who are willing to learn more every day.
 
