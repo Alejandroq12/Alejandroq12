@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🌱 I am currently learning Node.js, as well as responsive web design and accessibility. 
 
-👯 I'm looking to collaborate with people from all over the world.
+👯 I'm looking to collaborate with people from all over the world as it is very important to effectively work with different teams.
 
 😄 I speak French, English, and Spanish. In addition, I am learning Chinese.
 
