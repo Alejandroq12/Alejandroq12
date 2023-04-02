@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 🔭 I'm currently working on a React + Next.js application.
 
-🌱 I am currently learning Node.js, as well as responsive web design and accessibility. 
+🌱 I am presently learning Node.js, as well as responsive web design and accessibility.
 
-👯 I'm looking to collaborate with people from all over the world as it is very important to effectively work with different teams.
+👯 I'm looking to collaborate with people from all over the world, as it is crucial to effectively work with diverse teams.
 
-😄 I speak French, English, and Spanish. In addition, I am learning Chinese.
+😄 I speak French, English, and Spanish. Additionally, I am learning Chinese.
 
-⚡ My favorite platforms for learning are YouTube, Codecademy, Coursera, Zero to Mastery, Platzi, and Pluralsight.
+⚡ I have work experience as a developer collaborating with people from various countries. For instance, I have worked with colleagues from El Salvador, India, USA, Nicaragua, China, Pakistan, Nigeria, Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.
 
 Languages and tools:
 <div> 
