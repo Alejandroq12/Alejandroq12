@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
 
+![Julio quezada full stack web developer](https://user-images.githubusercontent.com/95459740/229638384-485cb9c3-fa19-4001-8006-b8944ae40783.png)
 
 <!--
 **Alejandroq12/Alejandroq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
