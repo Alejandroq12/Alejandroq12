@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - [HakerRank JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/b011be88e51e)
 - [HakerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/1ae59c46437a)
 - [HakerRank CSS Certificate](https://www.hackerrank.com/certificates/a750cd1e6aad)
+- [Udacity's Intro to Programming ](https://graduation.udacity.com/confirm/A5L4CGUC)
+- [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/ed048218-ba86-48ef-98d0-1bc815365254/public_url)
+- [HTML/CSS Microverse](https://www.credential.net/7a620e80-368e-4fdb-847b-fc6cdf5b8618#gs.uh8gwb)
+
 
 
 Languages and tools:
