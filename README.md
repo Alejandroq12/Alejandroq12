@@ -12,16 +12,22 @@
 Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
-
 🔭 I'm currently working on a React + Next.js application.
 
-🌱 I am presently learning Node.js, as well as responsive web design and accessibility.
+🌱 I am currently learning Node.js, as well as responsive web design and accessibility.
 
 👯 I'm looking to collaborate with people from all over the world, as it is crucial to effectively work with diverse teams.
 
 😄 I speak French, English, and Spanish. Additionally, I am learning Chinese.
 
-⚡ I have work experience as a developer collaborating with people from various countries. For instance, I have worked with colleagues from El Salvador, India, USA, Nicaragua, China, Pakistan, Nigeria, Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.
+⚡ I have work experience as a developer collaborating with people from various countries. For instance, I have worked with colleagues from El Salvador, India, the USA, Nicaragua, China, Pakistan, Nigeria, the Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.
+
+🏆 Notable achievements:
+- [Scrum Developer Professional Certificate - SDPC:](https://www.credly.com/badges/0c47a122-6637-4153-9713-4052063a87bc)
+- [HakerRank JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/b011be88e51e)
+- [HakerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/1ae59c46437a)
+- [HakerRank CSS Certificate](https://www.hackerrank.com/certificates/a750cd1e6aad)
+
 
 Languages and tools:
 <div> 
