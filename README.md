@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+learn+something+new+every+day.)](https://git.io/typing-svg)
 
+Contact me:
+
+Email: julio.quezada@catolica.edu.sv
+
+
 ![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
 
 ![Julio quezada full stack web developer](https://user-images.githubusercontent.com/95459740/229638384-485cb9c3-fa19-4001-8006-b8944ae40783.png)
