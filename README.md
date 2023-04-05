@@ -5,9 +5,11 @@
 Contact me:
 
 Email: julio.quezada@catolica.edu.sv
- 
- 
+
 [www.julioquezada.com](www.julioquezada.com)
+
+[LinkedIn](https://www.linkedin.com/in/quezadajulio/)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
