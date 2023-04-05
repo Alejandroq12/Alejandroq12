@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 -->
 🔭 I'm currently working on a React + Next.js application.
 
+📫 How to reach me julio.quezada@catolica.edu.sv
+
 🌱 I am currently learning Node.js, as well as responsive web design and accessibility.
 
 👯 I'm looking to collaborate with people from all over the world, as it is crucial to effectively work with diverse teams.
