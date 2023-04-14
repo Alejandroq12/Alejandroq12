@@ -10,6 +10,10 @@ Email: julio.quezada@catolica.edu.sv
 
 [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 
+## Recent articles:
+[EXPLAINING REST TO KIDS](https://medium.com/@julio.quezada/explaining-rest-to-kids-the-toy-box-analogy-c5bea90ae436)
+
+[LEARNING EXPERIENCE](https://medium.com/@julio.quezada/maximize-your-microverse-experience-3c7df470b4e0)
 
 
 ![](https://komarev.com/ghpvc/?username=Alejandroq12&color=green&style=flat-square)
