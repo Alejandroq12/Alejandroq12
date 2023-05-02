@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 😄 I speak French, English, and Spanish. Additionally, I am learning Chinese.
 
-⚡ I have work experience as a developer collaborating with people from various countries. For instance, I have worked with colleagues from El Salvador, India, the USA, Nicaragua, China, Pakistan, Nigeria, the Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.
+⚡ I have work experience as a developer, collaborating with people from various countries. For instance, I have worked with colleagues from Egypt, El Salvador, India, the USA, Nicaragua, China, Pakistan, Nigeria, the Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, Ecuador and Venezuela.
 
 🏆 Notable achievements:
 - [Scrum Developer Professional Certificate - SDPC:](https://www.credly.com/badges/0c47a122-6637-4153-9713-4052063a87bc)
