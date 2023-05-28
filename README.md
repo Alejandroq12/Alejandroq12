@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - [Udacity's Intro to Programming ](https://graduation.udacity.com/confirm/A5L4CGUC)
 - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/ed048218-ba86-48ef-98d0-1bc815365254/public_url)
 - [HTML/CSS Microverse](https://www.credential.net/7a620e80-368e-4fdb-847b-fc6cdf5b8618#gs.uh8gwb)
+- [JavaScript Microverse](https://www.credential.net/2561e0ad-3f04-43d0-806a-0e54ffba7c15#gs.zd7vzx)
 
 
 
