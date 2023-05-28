@@ -8,7 +8,7 @@ Email: julio.quezada@catolica.edu.sv
 
 Portfolio: [www.julioquezada.com](https://www.julioquezada.com)
 
-[LinkedIn](https://www.linkedin.com/in/quezadajulio/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 
 ## Recent articles:
 [EXPLAINING REST TO KIDS](https://medium.com/@julio.quezada/explaining-rest-to-kids-the-toy-box-analogy-c5bea90ae436)
