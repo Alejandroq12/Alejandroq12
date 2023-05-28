@@ -26,7 +26,7 @@ Email: julio.quezada@catolica.edu.sv
 Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
-🔭 I'm currently working on a React + Next.js application.
+🔭 I'm currently working on a React + Next.js application. 
 
 📫 How to reach me julio.quezada@catolica.edu.sv
 
