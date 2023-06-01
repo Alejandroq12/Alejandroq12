@@ -4,7 +4,7 @@
 
 Contact me:
 
-Email: julio.quezada@catolica.edu.sv
+Email: qjuliodev@gmail.com
 
 Portfolio: [www.julioquezada.com](https://www.julioquezada.com)
 
