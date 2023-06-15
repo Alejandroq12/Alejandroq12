@@ -71,9 +71,20 @@ Languages and tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alejandroq12&theme=highcontrast)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alejandroq12&theme=highcontrast" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandroq12&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandroq12&count_private=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alejandroq12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroq12&layout=donut-vertical" alt="Top Langs" />
+  </a>
+</p>
+
 
