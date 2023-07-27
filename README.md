@@ -6,7 +6,7 @@ Contact me:
 
 Email: qjuliodev@gmail.com
 
-Portfolio: [www.julioquezada.com](https://www.julioquezada.com)
+Portfolio: [www.julioquezada.com](https://www.quezadajulio.com)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 
