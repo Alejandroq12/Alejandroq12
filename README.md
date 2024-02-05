@@ -26,7 +26,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
-🔭 I'm currently working on a React + Next.js application. 
+🔭 I'm currently working on a Ruby on Rails project. 
 
 📫 How to reach me qjuliodev@gmail.com
 
