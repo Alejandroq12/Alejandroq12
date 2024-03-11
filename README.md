@@ -11,6 +11,7 @@ Portfolio: [www.quezadajulio.com](https://www.quezadajulio.com)
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 
 ## Recent articles:
+
 [EXPLAINING REST TO KIDS](https://medium.com/@julio.quezada/explaining-rest-to-kids-the-toy-box-analogy-c5bea90ae436)
 
 [LEARNING EXPERIENCE](https://medium.com/@julio.quezada/maximize-your-microverse-experience-3c7df470b4e0)
@@ -86,5 +87,3 @@ Languages and tools:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroq12&layout=donut-vertical" alt="Top Langs" />
   </a>
 </p>
-
-
