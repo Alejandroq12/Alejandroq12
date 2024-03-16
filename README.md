@@ -76,11 +76,9 @@ Languages and tools:
     <img src="https://streak-stats.demolab.com?user=Alejandroq12&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandroq12&count_private=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroq12&layout=donut-vertical" alt="Top Langs" />
