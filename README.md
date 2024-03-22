@@ -25,7 +25,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 **Alejandroq12/Alejandroq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 🔭 I'm currently working on a Ruby on Rails project. 
 
 📫 How to reach me qjuliodev@gmail.com
