@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I am Julio! Nice to meet you.👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+learn+something+new+every+day.)](https://git.io/typing-svg)
 
