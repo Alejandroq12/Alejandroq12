@@ -8,7 +8,7 @@ Email: qjuliodev@gmail.com
 
 Portfolio: [www.quezadajulio.com](https://www.quezadajulio.com)
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jqdeveloper)
 
 ## Recent articles:
 
