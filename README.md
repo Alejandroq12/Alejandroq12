@@ -26,11 +26,11 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/quezadajulio/)
 
 Here are some ideas to get you started:
 -->
-🔭 I'm currently working on a Ruby on Rails project. 
+🔭 I'm currently working on a .Net/React.js project. 
 
 📫 How to reach me qjuliodev@gmail.com
 
-🌱 I am currently learning Node.js, as well as responsive web design and accessibility.
+🌱 I am currently learning Linux, as well as responsive web design and accessibility.
 
 👯 I'm looking to collaborate with people from all over the world, as it is crucial to effectively work with diverse teams.
 
